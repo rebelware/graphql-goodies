@@ -1,0 +1,22 @@
+query ($orgname: String!) {
+  organization(login: $orgname) {
+    name
+    repositories(first: 100) {
+      edges {
+        node {
+          name
+          dependencyGraphManifests {
+            nodes {
+              dependencies {
+                nodes {
+                  packageName
+                  requirements
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2494 @@
+{
+    "data": {
+        "organization": {
+            "name": "rebelware",
+            "repositories": {
+                "edges": [{
+                    "node": {
+                        "name": "Fibonacci-Generator-II",
+                        "dependencyGraphManifests": {
+                            "nodes": [{
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@octokit/rest",
+                                        "requirements": "= 15.9.3"
+                                    }, {
+                                        "packageName": "acorn",
+                                        "requirements": "= 5.7.1"
+                                    }, {
+                                        "packageName": "acorn-jsx",
+                                        "requirements": "= 3.0.1"
+                                    }, {
+                                        "packageName": "agent-base",
+                                        "requirements": "= 4.2.0"
+                                    }, {
+                                        "packageName": "ajv",
+                                        "requirements": "= 4.11.8"
+                                    }, {
+                                        "packageName": "ajv-keywords",
+                                        "requirements": "= 1.5.1"
+                                    }, {
+                                        "packageName": "ansi-align",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "ansi-escapes",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "ansi-regex",
+                                        "requirements": "= 2.1.1"
+                                    }, {
+                                        "packageName": "ansi-styles",
+                                        "requirements": "= 2.2.1"
+                                    }, {
+                                        "packageName": "argparse",
+                                        "requirements": "= 1.0.10"
+                                    }, {
+                                        "packageName": "argv-tools",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "array-back",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "array-differ",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "array-find-index",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "array-union",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "array-uniq",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "arrify",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "asn1",
+                                        "requirements": "= 0.2.3"
+                                    }, {
+                                        "packageName": "assert-plus",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "asynckit",
+                                        "requirements": "= 0.4.0"
+                                    }, {
+                                        "packageName": "aws-sign2",
+                                        "requirements": "= 0.7.0"
+                                    }, {
+                                        "packageName": "aws4",
+                                        "requirements": "= 1.7.0"
+                                    }, {
+                                        "packageName": "babel-code-frame",
+                                        "requirements": "= 6.26.0"
+                                    }, {
+                                        "packageName": "balanced-match",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "bcrypt-pbkdf",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "before-after-hook",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "bl",
+                                        "requirements": "= 0.4.2"
+                                    }, {
+                                        "packageName": "boxen",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "brace-expansion",
+                                        "requirements": "= 1.1.11"
+                                    }, {
+                                        "packageName": "btoa-lite",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "buf-compare",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "buffer-from",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "builtin-modules",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "caller-path",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "callsites",
+                                        "requirements": "= 0.2.0"
+                                    }, {
+                                        "packageName": "camelcase",
+                                        "requirements": "= 2.1.1"
+                                    }, {
+                                        "packageName": "camelcase-keys",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "capture-stack-trace",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "caseless",
+                                        "requirements": "= 0.12.0"
+                                    }, {
+                                        "packageName": "chalk",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "ci-info",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "circular-json",
+                                        "requirements": "= 0.3.3"
+                                    }, {
+                                        "packageName": "cli-boxes",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "cli-cursor",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "cli-width",
+                                        "requirements": "= 2.2.0"
+                                    }, {
+                                        "packageName": "co",
+                                        "requirements": "= 4.6.0"
+                                    }, {
+                                        "packageName": "code-point-at",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "color-convert",
+                                        "requirements": "= 1.9.2"
+                                    }, {
+                                        "packageName": "color-name",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "combined-stream",
+                                        "requirements": "= 1.0.6"
+                                    }, {
+                                        "packageName": "command-line-args",
+                                        "requirements": "= 5.0.2"
+                                    }, {
+                                        "packageName": "command-line-usage",
+                                        "requirements": "= 5.0.5"
+                                    }, {
+                                        "packageName": "concat-map",
+                                        "requirements": "= 0.0.1"
+                                    }, {
+                                        "packageName": "concat-stream",
+                                        "requirements": "= 1.6.2"
+                                    }, {
+                                        "packageName": "configstore",
+                                        "requirements": "= 3.1.2"
+                                    }, {
+                                        "packageName": "contains-path",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "core-assert",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "core-js",
+                                        "requirements": "= 2.5.7"
+                                    }, {
+                                        "packageName": "core-util-is",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "create-error-class",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "cross-spawn",
+                                        "requirements": "= 5.1.0"
+                                    }, {
+                                        "packageName": "crypto-random-string",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "currently-unhandled",
+                                        "requirements": "= 0.4.1"
+                                    }, {
+                                        "packageName": "d",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "dashdash",
+                                        "requirements": "= 1.14.1"
+                                    }, {
+                                        "packageName": "debug",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "decamelize",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "deep-assign",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "deep-diff",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "deep-extend",
+                                        "requirements": "= 0.6.0"
+                                    }, {
+                                        "packageName": "deep-is",
+                                        "requirements": "= 0.1.3"
+                                    }, {
+                                        "packageName": "deep-strict-equal",
+                                        "requirements": "= 0.2.0"
+                                    }, {
+                                        "packageName": "del",
+                                        "requirements": "= 2.2.2"
+                                    }, {
+                                        "packageName": "delayed-stream",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "detect-indent",
+                                        "requirements": "= 5.0.0"
+                                    }, {
+                                        "packageName": "doctrine",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "dot-prop",
+                                        "requirements": "= 4.2.0"
+                                    }, {
+                                        "packageName": "duplexer3",
+                                        "requirements": "= 0.1.4"
+                                    }, {
+                                        "packageName": "ecc-jsbn",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "enhance-visitors",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "error-ex",
+                                        "requirements": "= 1.3.2"
+                                    }, {
+                                        "packageName": "es5-ext",
+                                        "requirements": "= 0.10.45"
+                                    }, {
+                                        "packageName": "es6-iterator",
+                                        "requirements": "= 2.0.3"
+                                    }, {
+                                        "packageName": "es6-map",
+                                        "requirements": "= 0.1.5"
+                                    }, {
+                                        "packageName": "es6-promise",
+                                        "requirements": "= 4.2.4"
+                                    }, {
+                                        "packageName": "es6-promisify",
+                                        "requirements": "= 5.0.0"
+                                    }, {
+                                        "packageName": "es6-set",
+                                        "requirements": "= 0.1.5"
+                                    }, {
+                                        "packageName": "es6-symbol",
+                                        "requirements": "= 3.1.1"
+                                    }, {
+                                        "packageName": "es6-weak-map",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "escape-string-regexp",
+                                        "requirements": "= 1.0.5"
+                                    }, {
+                                        "packageName": "escope",
+                                        "requirements": "= 3.6.0"
+                                    }, {
+                                        "packageName": "eslint",
+                                        "requirements": "= 3.19.0"
+                                    }, {
+                                        "packageName": "eslint-config-xo",
+                                        "requirements": "= 0.18.2"
+                                    }, {
+                                        "packageName": "eslint-formatter-pretty",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "eslint-import-resolver-node",
+                                        "requirements": "= 0.3.2"
+                                    }, {
+                                        "packageName": "eslint-module-utils",
+                                        "requirements": "= 2.2.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-ava",
+                                        "requirements": "= 4.5.1"
+                                    }, {
+                                        "packageName": "eslint-plugin-import",
+                                        "requirements": "= 2.13.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-no-use-extend-native",
+                                        "requirements": "= 0.3.12"
+                                    }, {
+                                        "packageName": "eslint-plugin-promise",
+                                        "requirements": "= 3.8.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-unicorn",
+                                        "requirements": "= 2.1.2"
+                                    }, {
+                                        "packageName": "espree",
+                                        "requirements": "= 3.5.4"
+                                    }, {
+                                        "packageName": "esprima",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "espurify",
+                                        "requirements": "= 1.8.0"
+                                    }, {
+                                        "packageName": "esquery",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "esrecurse",
+                                        "requirements": "= 4.2.1"
+                                    }, {
+                                        "packageName": "estraverse",
+                                        "requirements": "= 4.2.0"
+                                    }, {
+                                        "packageName": "esutils",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "event-emitter",
+                                        "requirements": "= 0.3.5"
+                                    }, {
+                                        "packageName": "execa",
+                                        "requirements": "= 0.7.0"
+                                    }, {
+                                        "packageName": "exit-hook",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "extend",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "extsprintf",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "fast-deep-equal",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "fast-json-stable-stringify",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "fast-levenshtein",
+                                        "requirements": "= 2.0.6"
+                                    }, {
+                                        "packageName": "figures",
+                                        "requirements": "= 1.7.0"
+                                    }, {
+                                        "packageName": "file-entry-cache",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "find-replace",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "find-up",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "flat-cache",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "forever-agent",
+                                        "requirements": "= 0.6.1"
+                                    }, {
+                                        "packageName": "form-data",
+                                        "requirements": "= 2.3.2"
+                                    }, {
+                                        "packageName": "fs.realpath",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "function-bind",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "generate-function",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "generate-object-property",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "get-set-props",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "get-stdin",
+                                        "requirements": "= 5.0.1"
+                                    }, {
+                                        "packageName": "get-stream",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "getpass",
+                                        "requirements": "= 0.1.7"
+                                    }, {
+                                        "packageName": "gfm-linkify",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "glob",
+                                        "requirements": "= 7.1.2"
+                                    }, {
+                                        "packageName": "global-dirs",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "globals",
+                                        "requirements": "= 9.18.0"
+                                    }, {
+                                        "packageName": "globby",
+                                        "requirements": "= 6.1.0"
+                                    }, {
+                                        "packageName": "got",
+                                        "requirements": "= 6.7.1"
+                                    }, {
+                                        "packageName": "graceful-fs",
+                                        "requirements": "= 4.1.11"
+                                    }, {
+                                        "packageName": "har-schema",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "har-validator",
+                                        "requirements": "= 5.0.3"
+                                    }, {
+                                        "packageName": "has",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "has-ansi",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "has-flag",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "hashmap",
+                                        "requirements": "= 2.3.0"
+                                    }, {
+                                        "packageName": "hosted-git-info",
+                                        "requirements": "= 2.6.1"
+                                    }, {
+                                        "packageName": "http-proxy-agent",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "http-signature",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "httpdispatcher",
+                                        "requirements": "= 2.1.2"
+                                    }, {
+                                        "packageName": "https-proxy-agent",
+                                        "requirements": "= 2.2.1"
+                                    }, {
+                                        "packageName": "ignore",
+                                        "requirements": "= 3.3.10"
+                                    }, {
+                                        "packageName": "import-lazy",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "import-modules",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "imurmurhash",
+                                        "requirements": "= 0.1.4"
+                                    }, {
+                                        "packageName": "indent-string",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "inflight",
+                                        "requirements": "= 1.0.6"
+                                    }, {
+                                        "packageName": "inherits",
+                                        "requirements": "= 2.0.3"
+                                    }, {
+                                        "packageName": "ini",
+                                        "requirements": "= 1.3.5"
+                                    }, {
+                                        "packageName": "inquirer",
+                                        "requirements": "= 0.12.0"
+                                    }, {
+                                        "packageName": "interpret",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "irregular-plurals",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "is-arrayish",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "is-builtin-module",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-ci",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-error",
+                                        "requirements": "= 2.2.1"
+                                    }, {
+                                        "packageName": "is-finite",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "is-fullwidth-code-point",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-get-set-prop",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-installed-globally",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "is-js-type",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "is-my-ip-valid",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-my-json-valid",
+                                        "requirements": "= 2.17.2"
+                                    }, {
+                                        "packageName": "is-npm",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-obj",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "is-obj-prop",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-path-cwd",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-path-in-cwd",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "is-path-inside",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "is-plain-obj",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-property",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "is-proto-prop",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "is-redirect",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-resolvable",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-retry-allowed",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-stream",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-typedarray",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-utf8",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "isarray",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "isexe",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "isstream",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "js-tokens",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "js-types",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "js-yaml",
+                                        "requirements": "= 3.12.0"
+                                    }, {
+                                        "packageName": "jsbn",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "json-parse-better-errors",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "json-schema",
+                                        "requirements": "= 0.2.3"
+                                    }, {
+                                        "packageName": "json-schema-traverse",
+                                        "requirements": "= 0.3.1"
+                                    }, {
+                                        "packageName": "json-stable-stringify",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "json-stringify-safe",
+                                        "requirements": "= 5.0.1"
+                                    }, {
+                                        "packageName": "jsonify",
+                                        "requirements": "= 0.0.0"
+                                    }, {
+                                        "packageName": "jsonpointer",
+                                        "requirements": "= 4.0.1"
+                                    }, {
+                                        "packageName": "jsonschema",
+                                        "requirements": "= 1.2.4"
+                                    }, {
+                                        "packageName": "jsprim",
+                                        "requirements": "= 1.4.1"
+                                    }, {
+                                        "packageName": "latest-version",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "levn",
+                                        "requirements": "= 0.3.0"
+                                    }, {
+                                        "packageName": "load-json-file",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "locate-path",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "lodash",
+                                        "requirements": "= 4.17.10"
+                                    }, {
+                                        "packageName": "lodash.camelcase",
+                                        "requirements": "= 4.3.0"
+                                    }, {
+                                        "packageName": "lodash.isequal",
+                                        "requirements": "= 4.5.0"
+                                    }, {
+                                        "packageName": "lodash.kebabcase",
+                                        "requirements": "= 4.1.1"
+                                    }, {
+                                        "packageName": "lodash.padend",
+                                        "requirements": "= 4.6.1"
+                                    }, {
+                                        "packageName": "lodash.snakecase",
+                                        "requirements": "= 4.1.1"
+                                    }, {
+                                        "packageName": "lodash.upperfirst",
+                                        "requirements": "= 4.3.1"
+                                    }, {
+                                        "packageName": "log-symbols",
+                                        "requirements": "= 2.2.0"
+                                    }, {
+                                        "packageName": "loud-rejection",
+                                        "requirements": "= 1.6.0"
+                                    }, {
+                                        "packageName": "lowercase-keys",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "lru-cache",
+                                        "requirements": "= 4.1.3"
+                                    }, {
+                                        "packageName": "make-dir",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "map-obj",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "markdown-to-html",
+                                        "requirements": "= 0.0.13"
+                                    }, {
+                                        "packageName": "marked",
+                                        "requirements": "= 0.3.19"
+                                    }, {
+                                        "packageName": "meow",
+                                        "requirements": "= 3.7.0"
+                                    }, {
+                                        "packageName": "mime-db",
+                                        "requirements": "= 1.33.0"
+                                    }, {
+                                        "packageName": "mime-types",
+                                        "requirements": "= 2.1.18"
+                                    }, {
+                                        "packageName": "minimatch",
+                                        "requirements": "= 3.0.4"
+                                    }, {
+                                        "packageName": "minimist",
+                                        "requirements": "= 0.0.8"
+                                    }, {
+                                        "packageName": "mkdirp",
+                                        "requirements": "= 0.5.1"
+                                    }, {
+                                        "packageName": "ms",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "multimatch",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "mute-stream",
+                                        "requirements": "= 0.0.5"
+                                    }, {
+                                        "packageName": "natural-compare",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "next-tick",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "node-fetch",
+                                        "requirements": "= 2.1.2"
+                                    }, {
+                                        "packageName": "normalize-package-data",
+                                        "requirements": "= 2.4.0"
+                                    }, {
+                                        "packageName": "npm",
+                                        "requirements": "= 6.1.0"
+                                    }, {
+                                        "packageName": "npm-run-path",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "number-is-nan",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "oauth-sign",
+                                        "requirements": "= 0.8.2"
+                                    }, {
+                                        "packageName": "obj-props",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "object-assign",
+                                        "requirements": "= 4.1.1"
+                                    }, {
+                                        "packageName": "object-keys",
+                                        "requirements": "= 0.4.0"
+                                    }, {
+                                        "packageName": "once",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "onetime",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "open",
+                                        "requirements": "= 0.0.5"
+                                    }, {
+                                        "packageName": "optionator",
+                                        "requirements": "= 0.8.2"
+                                    }, {
+                                        "packageName": "os-homedir",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "p-finally",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "p-limit",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "p-locate",
+                                        "requirements": "= 2.0.0"
+                                    }]
+                                }
+                            }, {
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@octokit/rest",
+                                        "requirements": "^ 15.9.3"
+                                    }, {
+                                        "packageName": "bootstrap",
+                                        "requirements": "^ 4.1.3"
+                                    }, {
+                                        "packageName": "bootstrap-datepicker",
+                                        "requirements": "^ 1.8.0"
+                                    }, {
+                                        "packageName": "command-line-args",
+                                        "requirements": "^ 5.0.2"
+                                    }, {
+                                        "packageName": "command-line-usage",
+                                        "requirements": "^ 5.0.5"
+                                    }, {
+                                        "packageName": "debug",
+                                        "requirements": "^ 3.1.0"
+                                    }, {
+                                        "packageName": "deep-diff",
+                                        "requirements": "^ 1.0.1"
+                                    }, {
+                                        "packageName": "express",
+                                        "requirements": "~ 4.16.0"
+                                    }, {
+                                        "packageName": "express-flash",
+                                        "requirements": "= 0.0.2"
+                                    }, {
+                                        "packageName": "express-handlebars",
+                                        "requirements": "^ 3.0.0"
+                                    }, {
+                                        "packageName": "express-session",
+                                        "requirements": "^ 1.15.6"
+                                    }, {
+                                        "packageName": "handlebars",
+                                        "requirements": "^ 4.0.12"
+                                    }, {
+                                        "packageName": "hashmap",
+                                        "requirements": "^ 2.3.0"
+                                    }, {
+                                        "packageName": "httpdispatcher",
+                                        "requirements": "^ 2.0.1"
+                                    }, {
+                                        "packageName": "i18n",
+                                        "requirements": "^ 0.8.3"
+                                    }, {
+                                        "packageName": "jest",
+                                        "requirements": "^ 24.8.0"
+                                    }, {
+                                        "packageName": "jsonschema",
+                                        "requirements": "^ 1.2.4"
+                                    }, {
+                                        "packageName": "markdown-to-html",
+                                        "requirements": "= 0.0.13"
+                                    }, {
+                                        "packageName": "moment",
+                                        "requirements": "^ 2.22.2"
+                                    }, {
+                                        "packageName": "mongoose",
+                                        "requirements": "^ 5.3.7"
+                                    }, {
+                                        "packageName": "morgan",
+                                        "requirements": "~ 1.9.0"
+                                    }, {
+                                        "packageName": "npm",
+                                        "requirements": "^ 6.1.0"
+                                    }, {
+                                        "packageName": "passport",
+                                        "requirements": "^ 0.4.0"
+                                    }, {
+                                        "packageName": "passport-local",
+                                        "requirements": "^ 1.0.0"
+                                    }, {
+                                        "packageName": "popper.js",
+                                        "requirements": "^ 1.14.4"
+                                    }, {
+                                        "packageName": "serve-favicon",
+                                        "requirements": "^ 2.5.0"
+                                    }, {
+                                        "packageName": "uuid",
+                                        "requirements": "^ 3.3.2"
+                                    }]
+                                }
+                            }]
+                        }
+                    }
+                }, {
+                    "node": {
+                        "name": "checkout",
+                        "dependencyGraphManifests": {
+                            "nodes": [{
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@actions/core",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "@actions/exec",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "@actions/github",
+                                        "requirements": "= 2.2.0"
+                                    }, {
+                                        "packageName": "@actions/http-client",
+                                        "requirements": "= 1.0.8"
+                                    }, {
+                                        "packageName": "@actions/io",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "@actions/tool-cache",
+                                        "requirements": "= 1.1.2"
+                                    }, {
+                                        "packageName": "@babel/code-frame",
+                                        "requirements": "= 7.5.5"
+                                    }, {
+                                        "packageName": "@babel/core",
+                                        "requirements": "= 7.7.4"
+                                    }, {
+                                        "packageName": "@babel/generator",
+                                        "requirements": "= 7.7.2"
+                                    }, {
+                                        "packageName": "@babel/helper-function-name",
+                                        "requirements": "= 7.7.0"
+                                    }, {
+                                        "packageName": "@babel/helper-get-function-arity",
+                                        "requirements": "= 7.7.0"
+                                    }, {
+                                        "packageName": "@babel/helper-plugin-utils",
+                                        "requirements": "= 7.0.0"
+                                    }, {
+                                        "packageName": "@babel/helper-split-export-declaration",
+                                        "requirements": "= 7.7.0"
+                                    }, {
+                                        "packageName": "@babel/helpers",
+                                        "requirements": "= 7.7.4"
+                                    }, {
+                                        "packageName": "@babel/highlight",
+                                        "requirements": "= 7.5.0"
+                                    }, {
+                                        "packageName": "@babel/parser",
+                                        "requirements": "= 7.7.3"
+                                    }, {
+                                        "packageName": "@babel/plugin-syntax-object-rest-spread",
+                                        "requirements": "= 7.7.4"
+                                    }, {
+                                        "packageName": "@babel/runtime",
+                                        "requirements": "= 7.7.2"
+                                    }, {
+                                        "packageName": "@babel/template",
+                                        "requirements": "= 7.7.0"
+                                    }, {
+                                        "packageName": "@babel/traverse",
+                                        "requirements": "= 7.7.2"
+                                    }, {
+                                        "packageName": "@babel/types",
+                                        "requirements": "= 7.7.2"
+                                    }, {
+                                        "packageName": "@cnakazawa/watch",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "@jest/console",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/core",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/environment",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/fake-timers",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/reporters",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/source-map",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/test-result",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/test-sequencer",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/transform",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/types",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@octokit/auth-token",
+                                        "requirements": "= 2.4.0"
+                                    }, {
+                                        "packageName": "@octokit/endpoint",
+                                        "requirements": "= 6.0.1"
+                                    }, {
+                                        "packageName": "@octokit/graphql",
+                                        "requirements": "= 4.3.1"
+                                    }, {
+                                        "packageName": "@octokit/plugin-paginate-rest",
+                                        "requirements": "= 1.1.2"
+                                    }, {
+                                        "packageName": "@octokit/plugin-request-log",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "@octokit/plugin-rest-endpoint-methods",
+                                        "requirements": "= 2.4.0"
+                                    }, {
+                                        "packageName": "@octokit/request",
+                                        "requirements": "= 5.4.2"
+                                    }, {
+                                        "packageName": "@octokit/request-error",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "@octokit/rest",
+                                        "requirements": "= 16.43.1"
+                                    }, {
+                                        "packageName": "@octokit/types",
+                                        "requirements": "= 2.14.0"
+                                    }, {
+                                        "packageName": "@types/babel__core",
+                                        "requirements": "= 7.1.3"
+                                    }, {
+                                        "packageName": "@types/babel__generator",
+                                        "requirements": "= 7.6.0"
+                                    }, {
+                                        "packageName": "@types/babel__template",
+                                        "requirements": "= 7.0.2"
+                                    }, {
+                                        "packageName": "@types/babel__traverse",
+                                        "requirements": "= 7.0.8"
+                                    }, {
+                                        "packageName": "@types/eslint-visitor-keys",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "@types/istanbul-lib-coverage",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "@types/istanbul-lib-report",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "@types/istanbul-reports",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "@types/jest",
+                                        "requirements": "= 24.0.23"
+                                    }, {
+                                        "packageName": "@types/json-schema",
+                                        "requirements": "= 7.0.3"
+                                    }, {
+                                        "packageName": "@types/node",
+                                        "requirements": "= 12.7.12"
+                                    }, {
+                                        "packageName": "@types/stack-utils",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "@types/uuid",
+                                        "requirements": "= 3.4.6"
+                                    }, {
+                                        "packageName": "@types/yargs",
+                                        "requirements": "= 13.0.3"
+                                    }, {
+                                        "packageName": "@types/yargs-parser",
+                                        "requirements": "= 13.1.0"
+                                    }, {
+                                        "packageName": "@typescript-eslint/eslint-plugin",
+                                        "requirements": "= 1.13.0"
+                                    }, {
+                                        "packageName": "@typescript-eslint/experimental-utils",
+                                        "requirements": "= 2.8.0"
+                                    }, {
+                                        "packageName": "@typescript-eslint/parser",
+                                        "requirements": "= 2.8.0"
+                                    }, {
+                                        "packageName": "@typescript-eslint/typescript-estree",
+                                        "requirements": "= 2.8.0"
+                                    }, {
+                                        "packageName": "@zeit/ncc",
+                                        "requirements": "= 0.20.5"
+                                    }, {
+                                        "packageName": "abab",
+                                        "requirements": "= 2.0.3"
+                                    }, {
+                                        "packageName": "acorn",
+                                        "requirements": "= 6.3.0"
+                                    }, {
+                                        "packageName": "acorn-globals",
+                                        "requirements": "= 4.3.4"
+                                    }, {
+                                        "packageName": "acorn-jsx",
+                                        "requirements": "= 5.1.0"
+                                    }, {
+                                        "packageName": "acorn-walk",
+                                        "requirements": "= 6.2.0"
+                                    }, {
+                                        "packageName": "ajv",
+                                        "requirements": "= 6.10.2"
+                                    }, {
+                                        "packageName": "ansi-escapes",
+                                        "requirements": "= 3.2.0"
+                                    }, {
+                                        "packageName": "ansi-regex",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "ansi-styles",
+                                        "requirements": "= 3.2.1"
+                                    }, {
+                                        "packageName": "anymatch",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "argparse",
+                                        "requirements": "= 1.0.10"
+                                    }, {
+                                        "packageName": "aria-query",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "arr-diff",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "arr-flatten",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "arr-union",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "array-equal",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "array-includes",
+                                        "requirements": "= 3.0.3"
+                                    }, {
+                                        "packageName": "array-unique",
+                                        "requirements": "= 0.3.2"
+                                    }, {
+                                        "packageName": "asn1",
+                                        "requirements": "= 0.2.4"
+                                    }, {
+                                        "packageName": "assert-plus",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "assign-symbols",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "ast-types-flow",
+                                        "requirements": "= 0.0.7"
+                                    }, {
+                                        "packageName": "astral-regex",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "async-limiter",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "asynckit",
+                                        "requirements": "= 0.4.0"
+                                    }, {
+                                        "packageName": "atob",
+                                        "requirements": "= 2.1.2"
+                                    }, {
+                                        "packageName": "atob-lite",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "aws-sign2",
+                                        "requirements": "= 0.7.0"
+                                    }, {
+                                        "packageName": "aws4",
+                                        "requirements": "= 1.8.0"
+                                    }, {
+                                        "packageName": "axobject-query",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "babel-eslint",
+                                        "requirements": "= 10.0.3"
+                                    }, {
+                                        "packageName": "babel-jest",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "babel-plugin-istanbul",
+                                        "requirements": "= 5.2.0"
+                                    }, {
+                                        "packageName": "babel-plugin-jest-hoist",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "babel-preset-jest",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "balanced-match",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "base",
+                                        "requirements": "= 0.11.2"
+                                    }, {
+                                        "packageName": "bcrypt-pbkdf",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "before-after-hook",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "brace-expansion",
+                                        "requirements": "= 1.1.11"
+                                    }, {
+                                        "packageName": "braces",
+                                        "requirements": "= 2.3.2"
+                                    }, {
+                                        "packageName": "browser-process-hrtime",
+                                        "requirements": "= 0.1.3"
+                                    }, {
+                                        "packageName": "browser-resolve",
+                                        "requirements": "= 1.11.3"
+                                    }, {
+                                        "packageName": "bs-logger",
+                                        "requirements": "= 0.2.6"
+                                    }, {
+                                        "packageName": "bser",
+                                        "requirements": "= 2.1.1"
+                                    }, {
+                                        "packageName": "btoa-lite",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "buffer-from",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "cache-base",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "callsites",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "camelcase",
+                                        "requirements": "= 5.3.1"
+                                    }, {
+                                        "packageName": "capture-exit",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "caseless",
+                                        "requirements": "= 0.12.0"
+                                    }, {
+                                        "packageName": "chalk",
+                                        "requirements": "= 2.4.2"
+                                    }, {
+                                        "packageName": "chardet",
+                                        "requirements": "= 0.7.0"
+                                    }, {
+                                        "packageName": "ci-info",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "class-utils",
+                                        "requirements": "= 0.3.6"
+                                    }, {
+                                        "packageName": "cli-cursor",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "cli-width",
+                                        "requirements": "= 2.2.0"
+                                    }, {
+                                        "packageName": "cliui",
+                                        "requirements": "= 5.0.0"
+                                    }, {
+                                        "packageName": "co",
+                                        "requirements": "= 4.6.0"
+                                    }, {
+                                        "packageName": "collection-visit",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "color-convert",
+                                        "requirements": "= 1.9.3"
+                                    }, {
+                                        "packageName": "color-name",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "combined-stream",
+                                        "requirements": "= 1.0.8"
+                                    }, {
+                                        "packageName": "commander",
+                                        "requirements": "= 2.20.3"
+                                    }, {
+                                        "packageName": "component-emitter",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "concat-map",
+                                        "requirements": "= 0.0.1"
+                                    }, {
+                                        "packageName": "contains-path",
+                                        "requirements": "= 0.1.0"
+                                    }, {
+                                        "packageName": "convert-source-map",
+                                        "requirements": "= 1.7.0"
+                                    }, {
+                                        "packageName": "copy-descriptor",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "core-util-is",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "cross-fetch",
+                                        "requirements": "= 2.2.2"
+                                    }, {
+                                        "packageName": "cross-spawn",
+                                        "requirements": "= 6.0.5"
+                                    }, {
+                                        "packageName": "cssom",
+                                        "requirements": "= 0.3.8"
+                                    }, {
+                                        "packageName": "cssstyle",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "damerau-levenshtein",
+                                        "requirements": "= 1.0.5"
+                                    }, {
+                                        "packageName": "dashdash",
+                                        "requirements": "= 1.14.1"
+                                    }, {
+                                        "packageName": "data-urls",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "debug",
+                                        "requirements": "= 4.1.1"
+                                    }, {
+                                        "packageName": "decamelize",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "decode-uri-component",
+                                        "requirements": "= 0.2.0"
+                                    }, {
+                                        "packageName": "deep-is",
+                                        "requirements": "= 0.1.3"
+                                    }, {
+                                        "packageName": "define-properties",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "define-property",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "delayed-stream",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "deprecation",
+                                        "requirements": "= 2.3.1"
+                                    }, {
+                                        "packageName": "detect-newline",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "diff-sequences",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "doctrine",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "domexception",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "ecc-jsbn",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "emoji-regex",
+                                        "requirements": "= 7.0.3"
+                                    }, {
+                                        "packageName": "end-of-stream",
+                                        "requirements": "= 1.4.4"
+                                    }, {
+                                        "packageName": "error-ex",
+                                        "requirements": "= 1.3.2"
+                                    }, {
+                                        "packageName": "es-abstract",
+                                        "requirements": "= 1.16.0"
+                                    }, {
+                                        "packageName": "es-to-primitive",
+                                        "requirements": "= 1.2.1"
+                                    }, {
+                                        "packageName": "escape-string-regexp",
+                                        "requirements": "= 1.0.5"
+                                    }, {
+                                        "packageName": "escodegen",
+                                        "requirements": "= 1.12.0"
+                                    }, {
+                                        "packageName": "eslint",
+                                        "requirements": "= 5.16.0"
+                                    }, {
+                                        "packageName": "eslint-config-prettier",
+                                        "requirements": "= 4.3.0"
+                                    }, {
+                                        "packageName": "eslint-import-resolver-node",
+                                        "requirements": "= 0.3.2"
+                                    }, {
+                                        "packageName": "eslint-module-utils",
+                                        "requirements": "= 2.4.1"
+                                    }, {
+                                        "packageName": "eslint-plugin-eslint-comments",
+                                        "requirements": "= 3.1.2"
+                                    }, {
+                                        "packageName": "eslint-plugin-flowtype",
+                                        "requirements": "= 4.4.1"
+                                    }, {
+                                        "packageName": "eslint-plugin-github",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-graphql",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-import",
+                                        "requirements": "= 2.18.2"
+                                    }, {
+                                        "packageName": "eslint-plugin-jest",
+                                        "requirements": "= 22.21.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-jsx-a11y",
+                                        "requirements": "= 6.2.3"
+                                    }, {
+                                        "packageName": "eslint-plugin-prettier",
+                                        "requirements": "= 3.1.1"
+                                    }, {
+                                        "packageName": "eslint-plugin-react",
+                                        "requirements": "= 7.16.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-relay",
+                                        "requirements": "= 1.4.1"
+                                    }, {
+                                        "packageName": "eslint-rule-documentation",
+                                        "requirements": "= 1.0.23"
+                                    }, {
+                                        "packageName": "eslint-scope",
+                                        "requirements": "= 5.0.0"
+                                    }, {
+                                        "packageName": "eslint-utils",
+                                        "requirements": "= 1.4.3"
+                                    }, {
+                                        "packageName": "eslint-visitor-keys",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "espree",
+                                        "requirements": "= 5.0.1"
+                                    }, {
+                                        "packageName": "esprima",
+                                        "requirements": "= 4.0.1"
+                                    }, {
+                                        "packageName": "esquery",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "esrecurse",
+                                        "requirements": "= 4.2.1"
+                                    }, {
+                                        "packageName": "estraverse",
+                                        "requirements": "= 4.3.0"
+                                    }, {
+                                        "packageName": "esutils",
+                                        "requirements": "= 2.0.3"
+                                    }, {
+                                        "packageName": "exec-sh",
+                                        "requirements": "= 0.3.4"
+                                    }, {
+                                        "packageName": "execa",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "exit",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "expand-brackets",
+                                        "requirements": "= 2.1.4"
+                                    }, {
+                                        "packageName": "expect",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "extend",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "extend-shallow",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "external-editor",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "extglob",
+                                        "requirements": "= 2.0.4"
+                                    }, {
+                                        "packageName": "extsprintf",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "fast-deep-equal",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "fast-diff",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "fast-json-stable-stringify",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "fast-levenshtein",
+                                        "requirements": "= 2.0.6"
+                                    }, {
+                                        "packageName": "fb-watchman",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "figures",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "file-entry-cache",
+                                        "requirements": "= 5.0.1"
+                                    }, {
+                                        "packageName": "fill-range",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "find-up",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "flat-cache",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "flatted",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "for-in",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "forever-agent",
+                                        "requirements": "= 0.6.1"
+                                    }, {
+                                        "packageName": "form-data",
+                                        "requirements": "= 2.3.3"
+                                    }, {
+                                        "packageName": "fragment-cache",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "fs.realpath",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "fsevents",
+                                        "requirements": "= 1.2.9"
+                                    }, {
+                                        "packageName": "function-bind",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "functional-red-black-tree",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "get-caller-file",
+                                        "requirements": "= 2.0.5"
+                                    }, {
+                                        "packageName": "get-stdin",
+                                        "requirements": "= 6.0.0"
+                                    }, {
+                                        "packageName": "get-stream",
+                                        "requirements": "= 4.1.0"
+                                    }, {
+                                        "packageName": "get-value",
+                                        "requirements": "= 2.0.6"
+                                    }, {
+                                        "packageName": "getpass",
+                                        "requirements": "= 0.1.7"
+                                    }, {
+                                        "packageName": "glob",
+                                        "requirements": "= 7.1.6"
+                                    }, {
+                                        "packageName": "globals",
+                                        "requirements": "= 11.12.0"
+                                    }, {
+                                        "packageName": "graceful-fs",
+                                        "requirements": "= 4.2.3"
+                                    }, {
+                                        "packageName": "graphql",
+                                        "requirements": "= 14.5.8"
+                                    }, {
+                                        "packageName": "graphql-config",
+                                        "requirements": "= 2.2.1"
+                                    }, {
+                                        "packageName": "graphql-import",
+                                        "requirements": "= 0.7.1"
+                                    }, {
+                                        "packageName": "graphql-request",
+                                        "requirements": "= 1.8.2"
+                                    }, {
+                                        "packageName": "growly",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "handlebars",
+                                        "requirements": "= 4.5.3"
+                                    }, {
+                                        "packageName": "har-schema",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "har-validator",
+                                        "requirements": "= 5.1.3"
+                                    }, {
+                                        "packageName": "has",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "has-flag",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "has-symbols",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "has-value",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "has-values",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "hosted-git-info",
+                                        "requirements": "= 2.8.5"
+                                    }, {
+                                        "packageName": "html-encoding-sniffer",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "http-signature",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "iconv-lite",
+                                        "requirements": "= 0.4.24"
+                                    }, {
+                                        "packageName": "ignore",
+                                        "requirements": "= 4.0.6"
+                                    }, {
+                                        "packageName": "import-fresh",
+                                        "requirements": "= 3.2.1"
+                                    }, {
+                                        "packageName": "import-local",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "imurmurhash",
+                                        "requirements": "= 0.1.4"
+                                    }, {
+                                        "packageName": "inflight",
+                                        "requirements": "= 1.0.6"
+                                    }, {
+                                        "packageName": "inherits",
+                                        "requirements": "= 2.0.4"
+                                    }, {
+                                        "packageName": "inquirer",
+                                        "requirements": "= 6.5.2"
+                                    }, {
+                                        "packageName": "invariant",
+                                        "requirements": "= 2.2.4"
+                                    }, {
+                                        "packageName": "is-accessor-descriptor",
+                                        "requirements": "= 0.1.6"
+                                    }, {
+                                        "packageName": "is-arrayish",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "is-buffer",
+                                        "requirements": "= 1.1.6"
+                                    }, {
+                                        "packageName": "is-callable",
+                                        "requirements": "= 1.1.4"
+                                    }]
+                                }
+                            }, {
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@actions/core",
+                                        "requirements": "^ 1.1.3"
+                                    }, {
+                                        "packageName": "@actions/exec",
+                                        "requirements": "^ 1.0.1"
+                                    }, {
+                                        "packageName": "@actions/github",
+                                        "requirements": "^ 2.2.0"
+                                    }, {
+                                        "packageName": "@actions/io",
+                                        "requirements": "^ 1.0.1"
+                                    }, {
+                                        "packageName": "@actions/tool-cache",
+                                        "requirements": "^ 1.1.2"
+                                    }, {
+                                        "packageName": "@types/jest",
+                                        "requirements": "^ 24.0.23"
+                                    }, {
+                                        "packageName": "@types/node",
+                                        "requirements": "^ 12.7.12"
+                                    }, {
+                                        "packageName": "@types/uuid",
+                                        "requirements": "^ 3.4.6"
+                                    }, {
+                                        "packageName": "@typescript-eslint/parser",
+                                        "requirements": "^ 2.8.0"
+                                    }, {
+                                        "packageName": "@zeit/ncc",
+                                        "requirements": "^ 0.20.5"
+                                    }, {
+                                        "packageName": "eslint",
+                                        "requirements": "^ 5.16.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-github",
+                                        "requirements": "^ 2.0.0"
+                                    }, {
+                                        "packageName": "eslint-plugin-jest",
+                                        "requirements": "^ 22.21.0"
+                                    }, {
+                                        "packageName": "jest",
+                                        "requirements": "^ 24.9.0"
+                                    }, {
+                                        "packageName": "jest-circus",
+                                        "requirements": "^ 24.9.0"
+                                    }, {
+                                        "packageName": "js-yaml",
+                                        "requirements": "^ 3.13.1"
+                                    }, {
+                                        "packageName": "prettier",
+                                        "requirements": "^ 1.19.1"
+                                    }, {
+                                        "packageName": "ts-jest",
+                                        "requirements": "^ 24.2.0"
+                                    }, {
+                                        "packageName": "typescript",
+                                        "requirements": "^ 3.6.4"
+                                    }, {
+                                        "packageName": "uuid",
+                                        "requirements": "^ 3.3.3"
+                                    }]
+                                }
+                            }]
+                        }
+                    }
+                }, {
+                    "node": {
+                        "name": "setup-node",
+                        "dependencyGraphManifests": {
+                            "nodes": [{
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@actions/core",
+                                        "requirements": "= 1.2.2"
+                                    }, {
+                                        "packageName": "@actions/exec",
+                                        "requirements": "= 1.0.4"
+                                    }, {
+                                        "packageName": "@actions/github",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "@actions/http-client",
+                                        "requirements": "= 1.0.6"
+                                    }, {
+                                        "packageName": "@actions/io",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "@actions/tool-cache",
+                                        "requirements": "= 1.5.4"
+                                    }, {
+                                        "packageName": "@babel/code-frame",
+                                        "requirements": "= 7.0.0"
+                                    }, {
+                                        "packageName": "@babel/core",
+                                        "requirements": "= 7.4.5"
+                                    }, {
+                                        "packageName": "@babel/generator",
+                                        "requirements": "= 7.4.4"
+                                    }, {
+                                        "packageName": "@babel/helper-function-name",
+                                        "requirements": "= 7.1.0"
+                                    }, {
+                                        "packageName": "@babel/helper-get-function-arity",
+                                        "requirements": "= 7.0.0"
+                                    }, {
+                                        "packageName": "@babel/helper-plugin-utils",
+                                        "requirements": "= 7.8.3"
+                                    }, {
+                                        "packageName": "@babel/helper-split-export-declaration",
+                                        "requirements": "= 7.4.4"
+                                    }, {
+                                        "packageName": "@babel/helpers",
+                                        "requirements": "= 7.4.4"
+                                    }, {
+                                        "packageName": "@babel/highlight",
+                                        "requirements": "= 7.0.0"
+                                    }, {
+                                        "packageName": "@babel/parser",
+                                        "requirements": "= 7.4.5"
+                                    }, {
+                                        "packageName": "@babel/plugin-syntax-object-rest-spread",
+                                        "requirements": "= 7.8.3"
+                                    }, {
+                                        "packageName": "@babel/template",
+                                        "requirements": "= 7.4.4"
+                                    }, {
+                                        "packageName": "@babel/traverse",
+                                        "requirements": "= 7.4.5"
+                                    }, {
+                                        "packageName": "@babel/types",
+                                        "requirements": "= 7.4.4"
+                                    }, {
+                                        "packageName": "@cnakazawa/watch",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "@jest/console",
+                                        "requirements": "= 24.7.1"
+                                    }, {
+                                        "packageName": "@jest/core",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/environment",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "@jest/fake-timers",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "@jest/reporters",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/source-map",
+                                        "requirements": "= 24.3.0"
+                                    }, {
+                                        "packageName": "@jest/test-result",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "@jest/test-sequencer",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "@jest/transform",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "@jest/types",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "@octokit/auth-token",
+                                        "requirements": "= 2.4.0"
+                                    }, {
+                                        "packageName": "@octokit/endpoint",
+                                        "requirements": "= 5.5.1"
+                                    }, {
+                                        "packageName": "@octokit/graphql",
+                                        "requirements": "= 2.1.3"
+                                    }, {
+                                        "packageName": "@octokit/request",
+                                        "requirements": "= 5.3.1"
+                                    }, {
+                                        "packageName": "@octokit/request-error",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "@octokit/rest",
+                                        "requirements": "= 16.38.1"
+                                    }, {
+                                        "packageName": "@octokit/types",
+                                        "requirements": "= 2.1.1"
+                                    }, {
+                                        "packageName": "@types/babel__core",
+                                        "requirements": "= 7.1.7"
+                                    }, {
+                                        "packageName": "@types/babel__generator",
+                                        "requirements": "= 7.6.1"
+                                    }, {
+                                        "packageName": "@types/babel__template",
+                                        "requirements": "= 7.0.2"
+                                    }, {
+                                        "packageName": "@types/babel__traverse",
+                                        "requirements": "= 7.0.11"
+                                    }, {
+                                        "packageName": "@types/istanbul-lib-coverage",
+                                        "requirements": "= 2.0.1"
+                                    }, {
+                                        "packageName": "@types/istanbul-lib-report",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "@types/istanbul-reports",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "@types/jest",
+                                        "requirements": "= 24.0.15"
+                                    }, {
+                                        "packageName": "@types/jest-diff",
+                                        "requirements": "= 20.0.1"
+                                    }, {
+                                        "packageName": "@types/node",
+                                        "requirements": "= 12.0.10"
+                                    }, {
+                                        "packageName": "@types/semver",
+                                        "requirements": "= 6.0.1"
+                                    }, {
+                                        "packageName": "@types/stack-utils",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "@types/yargs",
+                                        "requirements": "= 12.0.12"
+                                    }, {
+                                        "packageName": "@types/yargs-parser",
+                                        "requirements": "= 15.0.0"
+                                    }, {
+                                        "packageName": "@zeit/ncc",
+                                        "requirements": "= 0.21.0"
+                                    }, {
+                                        "packageName": "abab",
+                                        "requirements": "= 2.0.3"
+                                    }, {
+                                        "packageName": "acorn",
+                                        "requirements": "= 5.7.4"
+                                    }, {
+                                        "packageName": "acorn-globals",
+                                        "requirements": "= 4.3.4"
+                                    }, {
+                                        "packageName": "acorn-walk",
+                                        "requirements": "= 6.2.0"
+                                    }, {
+                                        "packageName": "ajv",
+                                        "requirements": "= 6.12.2"
+                                    }, {
+                                        "packageName": "ansi-escapes",
+                                        "requirements": "= 3.2.0"
+                                    }, {
+                                        "packageName": "ansi-regex",
+                                        "requirements": "= 4.1.0"
+                                    }, {
+                                        "packageName": "ansi-styles",
+                                        "requirements": "= 3.2.1"
+                                    }, {
+                                        "packageName": "anymatch",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "arr-diff",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "arr-flatten",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "arr-union",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "array-equal",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "array-unique",
+                                        "requirements": "= 0.3.2"
+                                    }, {
+                                        "packageName": "asn1",
+                                        "requirements": "= 0.2.4"
+                                    }, {
+                                        "packageName": "assert-plus",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "assign-symbols",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "astral-regex",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "async-limiter",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "asynckit",
+                                        "requirements": "= 0.4.0"
+                                    }, {
+                                        "packageName": "atob",
+                                        "requirements": "= 2.1.2"
+                                    }, {
+                                        "packageName": "atob-lite",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "aws-sign2",
+                                        "requirements": "= 0.7.0"
+                                    }, {
+                                        "packageName": "aws4",
+                                        "requirements": "= 1.9.1"
+                                    }, {
+                                        "packageName": "babel-jest",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "babel-plugin-istanbul",
+                                        "requirements": "= 5.1.4"
+                                    }, {
+                                        "packageName": "babel-plugin-jest-hoist",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "babel-preset-jest",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "balanced-match",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "base",
+                                        "requirements": "= 0.11.2"
+                                    }, {
+                                        "packageName": "bcrypt-pbkdf",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "before-after-hook",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "brace-expansion",
+                                        "requirements": "= 1.1.11"
+                                    }, {
+                                        "packageName": "braces",
+                                        "requirements": "= 2.3.2"
+                                    }, {
+                                        "packageName": "browser-process-hrtime",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "browser-resolve",
+                                        "requirements": "= 1.11.3"
+                                    }, {
+                                        "packageName": "bs-logger",
+                                        "requirements": "= 0.2.6"
+                                    }, {
+                                        "packageName": "bser",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "btoa-lite",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "buffer-from",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "cache-base",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "callsites",
+                                        "requirements": "= 3.1.0"
+                                    }, {
+                                        "packageName": "camelcase",
+                                        "requirements": "= 5.3.1"
+                                    }, {
+                                        "packageName": "capture-exit",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "caseless",
+                                        "requirements": "= 0.12.0"
+                                    }, {
+                                        "packageName": "chalk",
+                                        "requirements": "= 2.4.2"
+                                    }, {
+                                        "packageName": "ci-info",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "class-utils",
+                                        "requirements": "= 0.3.6"
+                                    }, {
+                                        "packageName": "cliui",
+                                        "requirements": "= 5.0.0"
+                                    }, {
+                                        "packageName": "co",
+                                        "requirements": "= 4.6.0"
+                                    }, {
+                                        "packageName": "collection-visit",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "color-convert",
+                                        "requirements": "= 1.9.3"
+                                    }, {
+                                        "packageName": "color-name",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "combined-stream",
+                                        "requirements": "= 1.0.8"
+                                    }, {
+                                        "packageName": "component-emitter",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "concat-map",
+                                        "requirements": "= 0.0.1"
+                                    }, {
+                                        "packageName": "convert-source-map",
+                                        "requirements": "= 1.6.0"
+                                    }, {
+                                        "packageName": "copy-descriptor",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "core-util-is",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "cross-spawn",
+                                        "requirements": "= 6.0.5"
+                                    }, {
+                                        "packageName": "cssom",
+                                        "requirements": "= 0.3.8"
+                                    }, {
+                                        "packageName": "cssstyle",
+                                        "requirements": "= 1.4.0"
+                                    }, {
+                                        "packageName": "dashdash",
+                                        "requirements": "= 1.14.1"
+                                    }, {
+                                        "packageName": "data-urls",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "debug",
+                                        "requirements": "= 2.6.9"
+                                    }, {
+                                        "packageName": "decamelize",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "decode-uri-component",
+                                        "requirements": "= 0.2.0"
+                                    }, {
+                                        "packageName": "deep-is",
+                                        "requirements": "= 0.1.3"
+                                    }, {
+                                        "packageName": "define-properties",
+                                        "requirements": "= 1.1.3"
+                                    }, {
+                                        "packageName": "define-property",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "delayed-stream",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "deprecation",
+                                        "requirements": "= 2.3.1"
+                                    }, {
+                                        "packageName": "detect-newline",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "diff-sequences",
+                                        "requirements": "= 24.3.0"
+                                    }, {
+                                        "packageName": "domexception",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "ecc-jsbn",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "emoji-regex",
+                                        "requirements": "= 7.0.3"
+                                    }, {
+                                        "packageName": "end-of-stream",
+                                        "requirements": "= 1.4.1"
+                                    }, {
+                                        "packageName": "error-ex",
+                                        "requirements": "= 1.3.2"
+                                    }, {
+                                        "packageName": "es-abstract",
+                                        "requirements": "= 1.13.0"
+                                    }, {
+                                        "packageName": "es-to-primitive",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "escape-string-regexp",
+                                        "requirements": "= 1.0.5"
+                                    }, {
+                                        "packageName": "escodegen",
+                                        "requirements": "= 1.14.1"
+                                    }, {
+                                        "packageName": "esprima",
+                                        "requirements": "= 4.0.1"
+                                    }, {
+                                        "packageName": "estraverse",
+                                        "requirements": "= 4.3.0"
+                                    }, {
+                                        "packageName": "esutils",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "exec-sh",
+                                        "requirements": "= 0.3.2"
+                                    }, {
+                                        "packageName": "execa",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "exit",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "expand-brackets",
+                                        "requirements": "= 2.1.4"
+                                    }, {
+                                        "packageName": "expect",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "extend",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "extend-shallow",
+                                        "requirements": "= 3.0.2"
+                                    }, {
+                                        "packageName": "extglob",
+                                        "requirements": "= 2.0.4"
+                                    }, {
+                                        "packageName": "extsprintf",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "fast-deep-equal",
+                                        "requirements": "= 3.1.1"
+                                    }, {
+                                        "packageName": "fast-json-stable-stringify",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "fast-levenshtein",
+                                        "requirements": "= 2.0.6"
+                                    }, {
+                                        "packageName": "fb-watchman",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "fill-range",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "find-up",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "for-in",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "forever-agent",
+                                        "requirements": "= 0.6.1"
+                                    }, {
+                                        "packageName": "form-data",
+                                        "requirements": "= 2.3.3"
+                                    }, {
+                                        "packageName": "fragment-cache",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "fs.realpath",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "fsevents",
+                                        "requirements": "= 1.2.9"
+                                    }, {
+                                        "packageName": "function-bind",
+                                        "requirements": "= 1.1.1"
+                                    }, {
+                                        "packageName": "get-caller-file",
+                                        "requirements": "= 2.0.5"
+                                    }, {
+                                        "packageName": "get-stream",
+                                        "requirements": "= 4.1.0"
+                                    }, {
+                                        "packageName": "get-value",
+                                        "requirements": "= 2.0.6"
+                                    }, {
+                                        "packageName": "getpass",
+                                        "requirements": "= 0.1.7"
+                                    }, {
+                                        "packageName": "glob",
+                                        "requirements": "= 7.1.4"
+                                    }, {
+                                        "packageName": "globals",
+                                        "requirements": "= 11.12.0"
+                                    }, {
+                                        "packageName": "graceful-fs",
+                                        "requirements": "= 4.2.0"
+                                    }, {
+                                        "packageName": "growly",
+                                        "requirements": "= 1.3.0"
+                                    }, {
+                                        "packageName": "har-schema",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "har-validator",
+                                        "requirements": "= 5.1.3"
+                                    }, {
+                                        "packageName": "has",
+                                        "requirements": "= 1.0.3"
+                                    }, {
+                                        "packageName": "has-flag",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "has-symbols",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "has-value",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "has-values",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "hosted-git-info",
+                                        "requirements": "= 2.7.1"
+                                    }, {
+                                        "packageName": "html-encoding-sniffer",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "html-escaper",
+                                        "requirements": "= 2.0.2"
+                                    }, {
+                                        "packageName": "http-signature",
+                                        "requirements": "= 1.2.0"
+                                    }, {
+                                        "packageName": "iconv-lite",
+                                        "requirements": "= 0.4.24"
+                                    }, {
+                                        "packageName": "import-local",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "imurmurhash",
+                                        "requirements": "= 0.1.4"
+                                    }, {
+                                        "packageName": "inflight",
+                                        "requirements": "= 1.0.6"
+                                    }, {
+                                        "packageName": "inherits",
+                                        "requirements": "= 2.0.4"
+                                    }, {
+                                        "packageName": "invariant",
+                                        "requirements": "= 2.2.4"
+                                    }, {
+                                        "packageName": "is-accessor-descriptor",
+                                        "requirements": "= 0.1.6"
+                                    }, {
+                                        "packageName": "is-arrayish",
+                                        "requirements": "= 0.2.1"
+                                    }, {
+                                        "packageName": "is-buffer",
+                                        "requirements": "= 1.1.6"
+                                    }, {
+                                        "packageName": "is-callable",
+                                        "requirements": "= 1.1.4"
+                                    }, {
+                                        "packageName": "is-ci",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "is-data-descriptor",
+                                        "requirements": "= 0.1.4"
+                                    }, {
+                                        "packageName": "is-date-object",
+                                        "requirements": "= 1.0.1"
+                                    }, {
+                                        "packageName": "is-descriptor",
+                                        "requirements": "= 0.1.6"
+                                    }, {
+                                        "packageName": "is-extendable",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "is-fullwidth-code-point",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "is-generator-fn",
+                                        "requirements": "= 2.1.0"
+                                    }, {
+                                        "packageName": "is-number",
+                                        "requirements": "= 3.0.0"
+                                    }, {
+                                        "packageName": "is-plain-object",
+                                        "requirements": "= 2.0.4"
+                                    }, {
+                                        "packageName": "is-regex",
+                                        "requirements": "= 1.0.4"
+                                    }, {
+                                        "packageName": "is-stream",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "is-symbol",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "is-typedarray",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "is-windows",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "is-wsl",
+                                        "requirements": "= 1.1.0"
+                                    }, {
+                                        "packageName": "isarray",
+                                        "requirements": "= 1.0.0"
+                                    }, {
+                                        "packageName": "isexe",
+                                        "requirements": "= 2.0.0"
+                                    }, {
+                                        "packageName": "isobject",
+                                        "requirements": "= 3.0.1"
+                                    }, {
+                                        "packageName": "isstream",
+                                        "requirements": "= 0.1.2"
+                                    }, {
+                                        "packageName": "istanbul-lib-coverage",
+                                        "requirements": "= 2.0.5"
+                                    }, {
+                                        "packageName": "istanbul-lib-instrument",
+                                        "requirements": "= 3.3.0"
+                                    }, {
+                                        "packageName": "istanbul-lib-report",
+                                        "requirements": "= 2.0.8"
+                                    }, {
+                                        "packageName": "istanbul-lib-source-maps",
+                                        "requirements": "= 3.0.6"
+                                    }, {
+                                        "packageName": "istanbul-reports",
+                                        "requirements": "= 2.2.7"
+                                    }, {
+                                        "packageName": "jest",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-changed-files",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-circus",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-config",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-diff",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-docblock",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-each",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-environment-jsdom",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-environment-node",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-get-type",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-haste-map",
+                                        "requirements": "= 24.8.1"
+                                    }, {
+                                        "packageName": "jest-jasmine2",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-leak-detector",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-matcher-utils",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-message-util",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-mock",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-pnp-resolver",
+                                        "requirements": "= 1.2.1"
+                                    }, {
+                                        "packageName": "jest-regex-util",
+                                        "requirements": "= 24.3.0"
+                                    }, {
+                                        "packageName": "jest-resolve",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-resolve-dependencies",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-runner",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-runtime",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-serializer",
+                                        "requirements": "= 24.4.0"
+                                    }, {
+                                        "packageName": "jest-snapshot",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-util",
+                                        "requirements": "= 24.8.0"
+                                    }, {
+                                        "packageName": "jest-validate",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-watcher",
+                                        "requirements": "= 24.9.0"
+                                    }, {
+                                        "packageName": "jest-worker",
+                                        "requirements": "= 24.6.0"
+                                    }, {
+                                        "packageName": "js-tokens",
+                                        "requirements": "= 4.0.0"
+                                    }, {
+                                        "packageName": "jsbn",
+                                        "requirements": "= 0.1.1"
+                                    }, {
+                                        "packageName": "jsdom",
+                                        "requirements": "= 11.12.0"
+                                    }, {
+                                        "packageName": "jsesc",
+                                        "requirements": "= 2.5.2"
+                                    }, {
+                                        "packageName": "json-parse-better-errors",
+                                        "requirements": "= 1.0.2"
+                                    }, {
+                                        "packageName": "json-schema",
+                                        "requirements": "= 0.2.3"
+                                    }, {
+                                        "packageName": "json-schema-traverse",
+                                        "requirements": "= 0.4.1"
+                                    }, {
+                                        "packageName": "json-stringify-safe",
+                                        "requirements": "= 5.0.1"
+                                    }]
+                                }
+                            }, {
+                                "dependencies": {
+                                    "nodes": [{
+                                        "packageName": "@actions/core",
+                                        "requirements": "^ 1.2.2"
+                                    }, {
+                                        "packageName": "@actions/exec",
+                                        "requirements": "^ 1.0.3"
+                                    }, {
+                                        "packageName": "@actions/github",
+                                        "requirements": "^ 1.1.0"
+                                    }, {
+                                        "packageName": "@actions/http-client",
+                                        "requirements": "^ 1.0.6"
+                                    }, {
+                                        "packageName": "@actions/io",
+                                        "requirements": "^ 1.0.2"
+                                    }, {
+                                        "packageName": "@actions/tool-cache",
+                                        "requirements": "^ 1.5.4"
+                                    }, {
+                                        "packageName": "@types/jest",
+                                        "requirements": "^ 24.0.13"
+                                    }, {
+                                        "packageName": "@types/node",
+                                        "requirements": "^ 12.0.4"
+                                    }, {
+                                        "packageName": "@types/semver",
+                                        "requirements": "^ 6.0.0"
+                                    }, {
+                                        "packageName": "@zeit/ncc",
+                                        "requirements": "^ 0.21.0"
+                                    }, {
+                                        "packageName": "jest",
+                                        "requirements": "^ 24.9.0"
+                                    }, {
+                                        "packageName": "jest-circus",
+                                        "requirements": "^ 24.7.1"
+                                    }, {
+                                        "packageName": "prettier",
+                                        "requirements": "^ 1.19.1"
+                                    }, {
+                                        "packageName": "semver",
+                                        "requirements": "^ 6.1.1"
+                                    }, {
+                                        "packageName": "ts-jest",
+                                        "requirements": "^ 24.3.0"
+                                    }, {
+                                        "packageName": "typescript",
+                                        "requirements": "^ 3.8.3"
+                                    }]
+                                }
+                            }]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
